@@ -1,4 +1,4 @@
-# YouDown
+# YouDown - YouTube Audio and Video Downloader Application
 The first version of YouDown is live. Now you can use all premium features of YouTube for free and without ads.
 
 **Highlights**
