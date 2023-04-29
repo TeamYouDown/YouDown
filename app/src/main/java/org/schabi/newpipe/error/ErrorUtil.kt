@@ -146,7 +146,7 @@ class ErrorUtil {
                     .setActionTextColor(Color.YELLOW)
                     .setAction(context.getString(R.string.error_snackbar_action).uppercase()) {
                         openActivity(context, errorInfo)
-                    }.show()
+                    }.dismiss()
             }
         }
     }
