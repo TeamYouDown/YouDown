@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "org.schabi.youdown",
+  "applicationId": "org.ozsoft.youdown",
   "variantName": "release",
   "elements": [
     {

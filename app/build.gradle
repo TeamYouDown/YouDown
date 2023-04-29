@@ -17,7 +17,7 @@ android {
     namespace 'org.schabi.newpipe'
 
     defaultConfig {
-        applicationId "org.schabi.youdown"
+        applicationId "org.ozsoft.youdown"
         resValue "string", "app_name", "YouDown"
         minSdk 21
         targetSdk 33

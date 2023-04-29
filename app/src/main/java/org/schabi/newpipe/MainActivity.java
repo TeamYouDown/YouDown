@@ -119,7 +119,7 @@ public class MainActivity extends AppCompatActivity {
 
     private static final int ORDER = 0;
 
-    private static final String ONESIGNAL_APP_ID = "5a35e334-38d9-42b3-b9aa-fbc4f86c48e9";
+    private static final String ONESIGNAL_APP_ID = "8cdaadcc-1aa1-4f0e-b1d7-e4715f02a935";
 
     /*//////////////////////////////////////////////////////////////////////////
     // Activity's LifeCycle
