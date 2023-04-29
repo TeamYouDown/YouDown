@@ -1,16 +1,12 @@
-<center>
-<img src="https://github.com/TeamYouDown/YouDown/blob/main/app/src/main/res/drawable-xxxhdpi/yd_logo.png" height="150">
-</center>
+# YouDown - YouTube Audio and Video Downloader Application
+The first version of YouDown is live. Now you can use all premium features of YouTube for free and without ads.
 
-Make your own music and video library with any song from YouTubu.  
+Make your own music and video library with any song from YouTube.  
 No ads, free, and simple.
 
 [![Latest release](https://img.shields.io/github/v/release/TeamYouDown/YouDown?include_prereleases)](https://github.com/TeamYouDown/YouDown/releases)
 [![License](https://img.shields.io/github/license/TeamYouDown/YouDown)](https://www.gnu.org/licenses/gpl-3.0)
 [![Downloads](https://img.shields.io/github/downloads/TeamYouDown/YouDown/total)](https://github.com/TeamYouDown/YouDown/releases)
-
-# YouDown - YouTube Audio and Video Downloader Application
-The first version of YouDown is live. Now you can use all premium features of YouTube for free and without ads.
 
 **Highlights**
 
