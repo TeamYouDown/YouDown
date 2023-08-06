@@ -1,3 +1,5 @@
+![MAIN HEADER](https://github.com/TeamYouDown/YouDown/blob/main/assets/app_banner.jpg?raw=true)
+
 # YouDown - YouTube Audio and Video Downloader Application
 The first version of YouDown is live. Now you can use all premium features of YouTube for free and without ads.
 
@@ -5,8 +7,16 @@ Make your own music and video library with any song from YouTube.
 No ads, free, and simple.
 
 [![Latest release](https://img.shields.io/github/v/release/TeamYouDown/YouDown?include_prereleases)](https://github.com/TeamYouDown/YouDown/releases)
+![](https://img.shields.io/badge/Required-Android%206.0%2B-brightgreen.svg)
+![](https://img.shields.io/badge/Version-1.0.0-green.svg)
 [![License](https://img.shields.io/github/license/TeamYouDown/YouDown)](https://www.gnu.org/licenses/gpl-3.0)
 [![Downloads](https://img.shields.io/github/downloads/TeamYouDown/YouDown/total)](https://github.com/TeamYouDown/YouDown/releases)
+
+* ***Still any Doubts / Problems ? (or) Want to suggest me any new Feature / Idea ?***
+     * Feel free to contact me any time through any of the following sources.
+     * Mail me to : info@youdown.net
+     * Join our [Telegram Group](https://t.me/YouDown_Chat)
+     * Find other ways from [My Website](https://youdown.net)
 
 **Highlights**
 
