@@ -1,4 +1,4 @@
-![MAIN HEADER](https://github.com/TeamYouDown/YouDown/blob/main/assets/app_banner.jpg?raw=true)
+![MAIN HEADER](https://github.com/TeamYouDown/YouDown/blob/main/assets/app_banner_youdown.jpg?raw=true)
 
 [![Latest release](https://img.shields.io/github/v/release/TeamYouDown/YouDown?include_prereleases)](https://github.com/TeamYouDown/YouDown/releases)
 ![](https://img.shields.io/badge/Required-Android%206.0%2B-brightgreen.svg)
